@@ -1,0 +1,671 @@
+[START]  [2022-08-11 15:42:05] Connected to tracker: http://bttracker.debian.org:6969/announce successfully
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 66.115.189.161:54987
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 95.211.208.214:30748
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 212.51.143.176:6881
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 144.76.31.130:28445
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 89.149.202.152:21131
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 45.83.233.158:51411
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 159.118.246.183:49000
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 47.187.37.152:53498
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 217.64.149.237:53643
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 92.52.35.12:51413
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 125.24.189.150:5432
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 181.214.153.79:57750
+
+[INFO]  [2022-08-11 15:42:07] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 94.198.4.186:55555
+
+[INFO]  [2022-08-11 15:42:09] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 95.31.104.92:51413
+
+[INFO]  [2022-08-11 15:42:11] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #24 has been downloaded
+
+[INFO]  [2022-08-11 15:42:12] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #6 has been downloaded
+
+[START]  [2022-08-11 15:42:13] Connected to tracker: https://torrent.ubuntu.com/announce successfully
+
+[INFO]  [2022-08-11 15:42:13] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #119 has been downloaded
+
+[INFO]  [2022-08-11 15:42:13] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #136 has been downloaded
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 185.125.190.59:6935
+
+[INFO]  [2022-08-11 15:42:14] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #135 has been downloaded
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2602:fdb8:131:a001::8:1:58662
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2602:fdb8:131:a001::c:1:61017
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2602:fdb8:131:2001::4:1:55462
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2601:188:cf01:76a0:cc64:41ff:fe62:62b8:8833
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2a0a:e340:1001:400::1:1:62455
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2001:4128:6135:e001:5054:ff:fec6:21ea:6980
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2603:c020:0:8369::bad:beef:51413
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2600:1700:2000:8a5f::137:51413
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2001:470:27:4e7::2:54965
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2600:1700:42c6:31f:dea6:32ff:febc:93c0:51414
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2001:41d0:a:fd5a::1:51413
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2a01:4f9:c010:61a0::1:51413
+
+[INFO]  [2022-08-11 15:42:14] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #12 has been downloaded
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2607:5300:60:623::1:51413
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2a02:168:f405:0:211:32ff:fe2c:748b:51414
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2600:1700:3130:4270:86d3:f3d:3ae2:6ea1:51413
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2a01:4f9:4a:35da::2:51413
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2001:470:1f11:5a5::dead:beef:48001
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2601:603:217f:8ab0:a8a1:59ff:fea0:13fe:6881
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2601:405:100:fae:211:32ff:feec:efb1:16881
+
+[INFO]  [2022-08-11 15:42:14] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2001:8b0:a790:604a:ca60:ff:fe86:cf14:51413
+
+[INFO]  [2022-08-11 15:42:15] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2804:431:9751:240:bf49:520f:2152:5ec4:51413
+
+[INFO]  [2022-08-11 15:42:15] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2400:d803:7907:eaee:5054:ff:fe83:5969:51413
+
+[INFO]  [2022-08-11 15:42:15] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2001:470:7a83:6f74:0:7069:7261:7465:6979
+
+[INFO]  [2022-08-11 15:42:15] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2001:448a:3050:b83a:f954:52bb:6c4:5e46:51413
+
+[INFO]  [2022-08-11 15:42:16] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #2 has been downloaded
+
+[INFO]  [2022-08-11 15:42:16] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #3 has been downloaded
+
+[INFO]  [2022-08-11 15:42:16] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #1 has been downloaded
+
+[INFO]  [2022-08-11 15:42:16] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2001:4c4e:25cf:13c8::253:51413
+
+[INFO]  [2022-08-11 15:42:16] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2a01:4f8:141:5192::2:58250
+
+[INFO]  [2022-08-11 15:42:17] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #139 has been downloaded
+
+[INFO]  [2022-08-11 15:42:17] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #5 has been downloaded
+
+[INFO]  [2022-08-11 15:42:17] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #25 has been downloaded
+
+[INFO]  [2022-08-11 15:42:17] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #27 has been downloaded
+
+[INFO]  [2022-08-11 15:42:17] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #26 has been downloaded
+
+[INFO]  [2022-08-11 15:42:17] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #6 has been downloaded
+
+[INFO]  [2022-08-11 15:42:17] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #140 has been downloaded
+
+[INFO]  [2022-08-11 15:42:17] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #4 has been downloaded
+
+[INFO]  [2022-08-11 15:42:18] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #141 has been downloaded
+
+[INFO]  [2022-08-11 15:42:18] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #142 has been downloaded
+
+[INFO]  [2022-08-11 15:42:18] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #11 has been downloaded
+
+[INFO]  [2022-08-11 15:42:18] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2a01:4f8:231:fd9::2:10066
+
+[INFO]  [2022-08-11 15:42:18] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2a01:4f8:191:91eb::2:24311
+
+[INFO]  [2022-08-11 15:42:19] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #30 has been downloaded
+
+[INFO]  [2022-08-11 15:42:19] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #31 has been downloaded
+
+[INFO]  [2022-08-11 15:42:19] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #32 has been downloaded
+
+[INFO]  [2022-08-11 15:42:19] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #145 has been downloaded
+
+[INFO]  [2022-08-11 15:42:19] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #33 has been downloaded
+
+[INFO]  [2022-08-11 15:42:20] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #40 has been downloaded
+
+[INFO]  [2022-08-11 15:42:20] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #16 has been downloaded
+
+[INFO]  [2022-08-11 15:42:20] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Connected to new peer - 2001:b011:4008:1ba1:264b:feff:fe83:63f7:51417
+
+[INFO]  [2022-08-11 15:42:20] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #34 has been downloaded
+
+[INFO]  [2022-08-11 15:42:20] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #146 has been downloaded
+
+[INFO]  [2022-08-11 15:42:20] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #39 has been downloaded
+
+[INFO]  [2022-08-11 15:42:20] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #41 has been downloaded
+
+[INFO]  [2022-08-11 15:42:20] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #17 has been downloaded
+
+[INFO]  [2022-08-11 15:42:20] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #42 has been downloaded
+
+[INFO]  [2022-08-11 15:42:20] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #8 has been downloaded
+
+[INFO]  [2022-08-11 15:42:21] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #144 has been downloaded
+
+[INFO]  [2022-08-11 15:42:21] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #7 has been downloaded
+
+[INFO]  [2022-08-11 15:42:21] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #43 has been downloaded
+
+[INFO]  [2022-08-11 15:42:21] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #147 has been downloaded
+
+[INFO]  [2022-08-11 15:42:21] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #47 has been downloaded
+
+[INFO]  [2022-08-11 15:42:21] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #36 has been downloaded
+
+[INFO]  [2022-08-11 15:42:22] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #35 has been downloaded
+
+[INFO]  [2022-08-11 15:42:22] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #48 has been downloaded
+
+[INFO]  [2022-08-11 15:42:22] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #50 has been downloaded
+
+[INFO]  [2022-08-11 15:42:23] Torrent: debian-11.3.0-amd64-netinst.iso - Connected to new peer - 92.83.255.18:6881
+
+[INFO]  [2022-08-11 15:42:23] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #143 has been downloaded
+
+[INFO]  [2022-08-11 15:42:23] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #53 has been downloaded
+
+[INFO]  [2022-08-11 15:42:23] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #44 has been downloaded
+
+[INFO]  [2022-08-11 15:42:23] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #52 has been downloaded
+
+[INFO]  [2022-08-11 15:42:23] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #54 has been downloaded
+
+[INFO]  [2022-08-11 15:42:23] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #46 has been downloaded
+
+[INFO]  [2022-08-11 15:42:23] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #57 has been downloaded
+
+[INFO]  [2022-08-11 15:42:23] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #58 has been downloaded
+
+[INFO]  [2022-08-11 15:42:23] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #148 has been downloaded
+
+[INFO]  [2022-08-11 15:42:24] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #149 has been downloaded
+
+[INFO]  [2022-08-11 15:42:24] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #51 has been downloaded
+
+[INFO]  [2022-08-11 15:42:24] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #59 has been downloaded
+
+[INFO]  [2022-08-11 15:42:25] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #65 has been downloaded
+
+[INFO]  [2022-08-11 15:42:25] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #62 has been downloaded
+
+[INFO]  [2022-08-11 15:42:25] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #64 has been downloaded
+
+[INFO]  [2022-08-11 15:42:25] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #61 has been downloaded
+
+[INFO]  [2022-08-11 15:42:25] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #13 has been downloaded
+
+[INFO]  [2022-08-11 15:42:25] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #56 has been downloaded
+
+[INFO]  [2022-08-11 15:42:25] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #151 has been downloaded
+
+[INFO]  [2022-08-11 15:42:25] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #67 has been downloaded
+
+[INFO]  [2022-08-11 15:42:26] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #60 has been downloaded
+
+[INFO]  [2022-08-11 15:42:26] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #68 has been downloaded
+
+[INFO]  [2022-08-11 15:42:26] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #63 has been downloaded
+
+[INFO]  [2022-08-11 15:42:26] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #28 has been downloaded
+
+[INFO]  [2022-08-11 15:42:26] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #70 has been downloaded
+
+[INFO]  [2022-08-11 15:42:26] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #153 has been downloaded
+
+[INFO]  [2022-08-11 15:42:26] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #69 has been downloaded
+
+[INFO]  [2022-08-11 15:42:26] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #152 has been downloaded
+
+[INFO]  [2022-08-11 15:42:26] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #66 has been downloaded
+
+[INFO]  [2022-08-11 15:42:27] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #79 has been downloaded
+
+[INFO]  [2022-08-11 15:42:27] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #80 has been downloaded
+
+[INFO]  [2022-08-11 15:42:27] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #76 has been downloaded
+
+[INFO]  [2022-08-11 15:42:27] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #73 has been downloaded
+
+[INFO]  [2022-08-11 15:42:27] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #49 has been downloaded
+
+[INFO]  [2022-08-11 15:42:27] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #55 has been downloaded
+
+[INFO]  [2022-08-11 15:42:27] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #74 has been downloaded
+
+[INFO]  [2022-08-11 15:42:28] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #155 has been downloaded
+
+[INFO]  [2022-08-11 15:42:28] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #71 has been downloaded
+
+[INFO]  [2022-08-11 15:42:28] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #84 has been downloaded
+
+[INFO]  [2022-08-11 15:42:28] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #88 has been downloaded
+
+[INFO]  [2022-08-11 15:42:28] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #83 has been downloaded
+
+[INFO]  [2022-08-11 15:42:29] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #82 has been downloaded
+
+[INFO]  [2022-08-11 15:42:29] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #154 has been downloaded
+
+[INFO]  [2022-08-11 15:42:29] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #81 has been downloaded
+
+[INFO]  [2022-08-11 15:42:29] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #9 has been downloaded
+
+[INFO]  [2022-08-11 15:42:30] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #91 has been downloaded
+
+[INFO]  [2022-08-11 15:42:30] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #157 has been downloaded
+
+[INFO]  [2022-08-11 15:42:30] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #85 has been downloaded
+
+[INFO]  [2022-08-11 15:42:30] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #90 has been downloaded
+
+[INFO]  [2022-08-11 15:42:30] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #92 has been downloaded
+
+[INFO]  [2022-08-11 15:42:30] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #93 has been downloaded
+
+[INFO]  [2022-08-11 15:42:31] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #78 has been downloaded
+
+[INFO]  [2022-08-11 15:42:31] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #75 has been downloaded
+
+[INFO]  [2022-08-11 15:42:31] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #156 has been downloaded
+
+[INFO]  [2022-08-11 15:42:31] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #96 has been downloaded
+
+[INFO]  [2022-08-11 15:42:31] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #72 has been downloaded
+
+[INFO]  [2022-08-11 15:42:31] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #98 has been downloaded
+
+[INFO]  [2022-08-11 15:42:31] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #89 has been downloaded
+
+[INFO]  [2022-08-11 15:42:31] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #100 has been downloaded
+
+[INFO]  [2022-08-11 15:42:31] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #99 has been downloaded
+
+[INFO]  [2022-08-11 15:42:31] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #94 has been downloaded
+
+[INFO]  [2022-08-11 15:42:32] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #159 has been downloaded
+
+[INFO]  [2022-08-11 15:42:32] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #105 has been downloaded
+
+[INFO]  [2022-08-11 15:42:32] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #97 has been downloaded
+
+[INFO]  [2022-08-11 15:42:32] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #108 has been downloaded
+
+[INFO]  [2022-08-11 15:42:32] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #103 has been downloaded
+
+[INFO]  [2022-08-11 15:42:32] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #107 has been downloaded
+
+[INFO]  [2022-08-11 15:42:33] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #87 has been downloaded
+
+[INFO]  [2022-08-11 15:42:33] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #106 has been downloaded
+
+[INFO]  [2022-08-11 15:42:33] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #77 has been downloaded
+
+[INFO]  [2022-08-11 15:42:33] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #113 has been downloaded
+
+[INFO]  [2022-08-11 15:42:33] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #110 has been downloaded
+
+[INFO]  [2022-08-11 15:42:33] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #114 has been downloaded
+
+[INFO]  [2022-08-11 15:42:34] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #112 has been downloaded
+
+[INFO]  [2022-08-11 15:42:34] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #109 has been downloaded
+
+[INFO]  [2022-08-11 15:42:34] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #158 has been downloaded
+
+[INFO]  [2022-08-11 15:42:34] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #102 has been downloaded
+
+[INFO]  [2022-08-11 15:42:34] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #161 has been downloaded
+
+[INFO]  [2022-08-11 15:42:35] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #111 has been downloaded
+
+[INFO]  [2022-08-11 15:42:35] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #118 has been downloaded
+
+[INFO]  [2022-08-11 15:42:35] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #121 has been downloaded
+
+[INFO]  [2022-08-11 15:42:35] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #120 has been downloaded
+
+[INFO]  [2022-08-11 15:42:35] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #160 has been downloaded
+
+[INFO]  [2022-08-11 15:42:35] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #119 has been downloaded
+
+[INFO]  [2022-08-11 15:42:35] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #23 has been downloaded
+
+[INFO]  [2022-08-11 15:42:36] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #86 has been downloaded
+
+[INFO]  [2022-08-11 15:42:36] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #116 has been downloaded
+
+[INFO]  [2022-08-11 15:42:36] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #128 has been downloaded
+
+[INFO]  [2022-08-11 15:42:36] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #127 has been downloaded
+
+[INFO]  [2022-08-11 15:42:36] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #125 has been downloaded
+
+[INFO]  [2022-08-11 15:42:36] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #124 has been downloaded
+
+[INFO]  [2022-08-11 15:42:36] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #104 has been downloaded
+
+[INFO]  [2022-08-11 15:42:36] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #122 has been downloaded
+
+[INFO]  [2022-08-11 15:42:36] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #12 has been downloaded
+
+[INFO]  [2022-08-11 15:42:37] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #126 has been downloaded
+
+[INFO]  [2022-08-11 15:42:37] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #163 has been downloaded
+
+[INFO]  [2022-08-11 15:42:37] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #95 has been downloaded
+
+[INFO]  [2022-08-11 15:42:37] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #133 has been downloaded
+
+[INFO]  [2022-08-11 15:42:38] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #123 has been downloaded
+
+[INFO]  [2022-08-11 15:42:38] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #164 has been downloaded
+
+[INFO]  [2022-08-11 15:42:39] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #132 has been downloaded
+
+[INFO]  [2022-08-11 15:42:39] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #134 has been downloaded
+
+[INFO]  [2022-08-11 15:42:39] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #135 has been downloaded
+
+[INFO]  [2022-08-11 15:42:39] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #139 has been downloaded
+
+[INFO]  [2022-08-11 15:42:40] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #101 has been downloaded
+
+[INFO]  [2022-08-11 15:42:40] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #137 has been downloaded
+
+[INFO]  [2022-08-11 15:42:40] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #144 has been downloaded
+
+[INFO]  [2022-08-11 15:42:40] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #143 has been downloaded
+
+[INFO]  [2022-08-11 15:42:40] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #141 has been downloaded
+
+[INFO]  [2022-08-11 15:42:40] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #146 has been downloaded
+
+[INFO]  [2022-08-11 15:42:41] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #131 has been downloaded
+
+[INFO]  [2022-08-11 15:42:41] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #166 has been downloaded
+
+[INFO]  [2022-08-11 15:42:41] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #149 has been downloaded
+
+[INFO]  [2022-08-11 15:42:41] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #142 has been downloaded
+
+[INFO]  [2022-08-11 15:42:41] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #150 has been downloaded
+
+[INFO]  [2022-08-11 15:42:41] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #115 has been downloaded
+
+[INFO]  [2022-08-11 15:42:41] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #151 has been downloaded
+
+[INFO]  [2022-08-11 15:42:41] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #145 has been downloaded
+
+[INFO]  [2022-08-11 15:42:42] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #136 has been downloaded
+
+[INFO]  [2022-08-11 15:42:42] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #152 has been downloaded
+
+[INFO]  [2022-08-11 15:42:42] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #117 has been downloaded
+
+[INFO]  [2022-08-11 15:42:42] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #154 has been downloaded
+
+[INFO]  [2022-08-11 15:42:42] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #158 has been downloaded
+
+[INFO]  [2022-08-11 15:42:42] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #38 has been downloaded
+
+[INFO]  [2022-08-11 15:42:42] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #156 has been downloaded
+
+[INFO]  [2022-08-11 15:42:42] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #148 has been downloaded
+
+[INFO]  [2022-08-11 15:42:43] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #162 has been downloaded
+
+[INFO]  [2022-08-11 15:42:43] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #37 has been downloaded
+
+[INFO]  [2022-08-11 15:42:43] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #161 has been downloaded
+
+[INFO]  [2022-08-11 15:42:43] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #153 has been downloaded
+
+[INFO]  [2022-08-11 15:42:43] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #166 has been downloaded
+
+[INFO]  [2022-08-11 15:42:43] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #163 has been downloaded
+
+[INFO]  [2022-08-11 15:42:43] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #165 has been downloaded
+
+[INFO]  [2022-08-11 15:42:43] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #164 has been downloaded
+
+[INFO]  [2022-08-11 15:42:44] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #155 has been downloaded
+
+[INFO]  [2022-08-11 15:42:44] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #159 has been downloaded
+
+[INFO]  [2022-08-11 15:42:44] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #138 has been downloaded
+
+[INFO]  [2022-08-11 15:42:44] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #130 has been downloaded
+
+[INFO]  [2022-08-11 15:42:44] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #157 has been downloaded
+
+[INFO]  [2022-08-11 15:42:44] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #169 has been downloaded
+
+[INFO]  [2022-08-11 15:42:44] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #140 has been downloaded
+
+[INFO]  [2022-08-11 15:42:44] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #172 has been downloaded
+
+[INFO]  [2022-08-11 15:42:44] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #171 has been downloaded
+
+[INFO]  [2022-08-11 15:42:44] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #173 has been downloaded
+
+[INFO]  [2022-08-11 15:42:45] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #167 has been downloaded
+
+[INFO]  [2022-08-11 15:42:45] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #167 has been downloaded
+
+[INFO]  [2022-08-11 15:42:45] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #170 has been downloaded
+
+[INFO]  [2022-08-11 15:42:45] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #175 has been downloaded
+
+[INFO]  [2022-08-11 15:42:46] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #182 has been downloaded
+
+[INFO]  [2022-08-11 15:42:46] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #181 has been downloaded
+
+[INFO]  [2022-08-11 15:42:46] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #183 has been downloaded
+
+[INFO]  [2022-08-11 15:42:46] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #176 has been downloaded
+
+[INFO]  [2022-08-11 15:42:46] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #174 has been downloaded
+
+[INFO]  [2022-08-11 15:42:46] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #179 has been downloaded
+
+[INFO]  [2022-08-11 15:42:46] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #162 has been downloaded
+
+[INFO]  [2022-08-11 15:42:46] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #168 has been downloaded
+
+[INFO]  [2022-08-11 15:42:46] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #184 has been downloaded
+
+[INFO]  [2022-08-11 15:42:47] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #160 has been downloaded
+
+[INFO]  [2022-08-11 15:42:47] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #187 has been downloaded
+
+[INFO]  [2022-08-11 15:42:47] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #189 has been downloaded
+
+[INFO]  [2022-08-11 15:42:47] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #188 has been downloaded
+
+[INFO]  [2022-08-11 15:42:47] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #170 has been downloaded
+
+[INFO]  [2022-08-11 15:42:47] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #186 has been downloaded
+
+[INFO]  [2022-08-11 15:42:47] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #178 has been downloaded
+
+[INFO]  [2022-08-11 15:42:47] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #192 has been downloaded
+
+[INFO]  [2022-08-11 15:42:47] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #129 has been downloaded
+
+[INFO]  [2022-08-11 15:42:48] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #185 has been downloaded
+
+[INFO]  [2022-08-11 15:42:48] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #147 has been downloaded
+
+[INFO]  [2022-08-11 15:42:48] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #196 has been downloaded
+
+[INFO]  [2022-08-11 15:42:48] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #197 has been downloaded
+
+[INFO]  [2022-08-11 15:42:48] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #169 has been downloaded
+
+[INFO]  [2022-08-11 15:42:48] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #194 has been downloaded
+
+[INFO]  [2022-08-11 15:42:48] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #198 has been downloaded
+
+[INFO]  [2022-08-11 15:42:49] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #201 has been downloaded
+
+[INFO]  [2022-08-11 15:42:49] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #172 has been downloaded
+
+[INFO]  [2022-08-11 15:42:49] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #193 has been downloaded
+
+[INFO]  [2022-08-11 15:42:49] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #191 has been downloaded
+
+[INFO]  [2022-08-11 15:42:49] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #199 has been downloaded
+
+[INFO]  [2022-08-11 15:42:49] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #205 has been downloaded
+
+[INFO]  [2022-08-11 15:42:49] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #206 has been downloaded
+
+[INFO]  [2022-08-11 15:42:49] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #208 has been downloaded
+
+[INFO]  [2022-08-11 15:42:50] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #209 has been downloaded
+
+[INFO]  [2022-08-11 15:42:50] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #190 has been downloaded
+
+[INFO]  [2022-08-11 15:42:50] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #171 has been downloaded
+
+[INFO]  [2022-08-11 15:42:50] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #200 has been downloaded
+
+[INFO]  [2022-08-11 15:42:50] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #203 has been downloaded
+
+[INFO]  [2022-08-11 15:42:50] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #207 has been downloaded
+
+[INFO]  [2022-08-11 15:42:50] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #213 has been downloaded
+
+[INFO]  [2022-08-11 15:42:50] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #214 has been downloaded
+
+[INFO]  [2022-08-11 15:42:50] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #215 has been downloaded
+
+[INFO]  [2022-08-11 15:42:50] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #212 has been downloaded
+
+[INFO]  [2022-08-11 15:42:51] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #216 has been downloaded
+
+[INFO]  [2022-08-11 15:42:51] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #174 has been downloaded
+
+[INFO]  [2022-08-11 15:42:51] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #173 has been downloaded
+
+[INFO]  [2022-08-11 15:42:52] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #180 has been downloaded
+
+[INFO]  [2022-08-11 15:42:52] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #221 has been downloaded
+
+[INFO]  [2022-08-11 15:42:52] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #222 has been downloaded
+
+[INFO]  [2022-08-11 15:42:52] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #223 has been downloaded
+
+[INFO]  [2022-08-11 15:42:52] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #211 has been downloaded
+
+[INFO]  [2022-08-11 15:42:52] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #210 has been downloaded
+
+[INFO]  [2022-08-11 15:42:52] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #220 has been downloaded
+
+[INFO]  [2022-08-11 15:42:52] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #195 has been downloaded
+
+[INFO]  [2022-08-11 15:42:52] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #225 has been downloaded
+
+[INFO]  [2022-08-11 15:42:52] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #218 has been downloaded
+
+[INFO]  [2022-08-11 15:42:52] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #224 has been downloaded
+
+[INFO]  [2022-08-11 15:42:53] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #177 has been downloaded
+
+[INFO]  [2022-08-11 15:42:53] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #219 has been downloaded
+
+[INFO]  [2022-08-11 15:42:53] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #168 has been downloaded
+
+[INFO]  [2022-08-11 15:42:53] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #228 has been downloaded
+
+[INFO]  [2022-08-11 15:42:53] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #217 has been downloaded
+
+[INFO]  [2022-08-11 15:42:53] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #175 has been downloaded
+
+[INFO]  [2022-08-11 15:42:54] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #177 has been downloaded
+
+[INFO]  [2022-08-11 15:42:54] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #176 has been downloaded
+
+[INFO]  [2022-08-11 15:42:54] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #229 has been downloaded
+
+[INFO]  [2022-08-11 15:42:54] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #232 has been downloaded
+
+[INFO]  [2022-08-11 15:42:54] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #227 has been downloaded
+
+[INFO]  [2022-08-11 15:42:54] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #240 has been downloaded
+
+[INFO]  [2022-08-11 15:42:54] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #235 has been downloaded
+
+[INFO]  [2022-08-11 15:42:54] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #230 has been downloaded
+
+[INFO]  [2022-08-11 15:42:54] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #236 has been downloaded
+
+[INFO]  [2022-08-11 15:42:54] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #234 has been downloaded
+
+[INFO]  [2022-08-11 15:42:55] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #231 has been downloaded
+
+[INFO]  [2022-08-11 15:42:55] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #242 has been downloaded
+
+[INFO]  [2022-08-11 15:42:55] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #245 has been downloaded
+
+[INFO]  [2022-08-11 15:42:55] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #243 has been downloaded
+
+[INFO]  [2022-08-11 15:42:55] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #244 has been downloaded
+
+[INFO]  [2022-08-11 15:42:56] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #248 has been downloaded
+
+[INFO]  [2022-08-11 15:42:56] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #249 has been downloaded
+
+[INFO]  [2022-08-11 15:42:57] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #252 has been downloaded
+
+[INFO]  [2022-08-11 15:42:57] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #180 has been downloaded
+
+[INFO]  [2022-08-11 15:42:57] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #251 has been downloaded
+
+[INFO]  [2022-08-11 15:42:57] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #253 has been downloaded
+
+[INFO]  [2022-08-11 15:42:57] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #204 has been downloaded
+
+[INFO]  [2022-08-11 15:42:57] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #254 has been downloaded
+
+[INFO]  [2022-08-11 15:42:57] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #178 has been downloaded
+
+[INFO]  [2022-08-11 15:42:57] Torrent: debian-11.3.0-amd64-netinst.iso - Piece #179 has been downloaded
+
+[INFO]  [2022-08-11 15:42:57] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #256 has been downloaded
+
+[INFO]  [2022-08-11 15:42:58] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #233 has been downloaded
+
+[INFO]  [2022-08-11 15:42:58] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #246 has been downloaded
+
+[INFO]  [2022-08-11 15:42:58] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #255 has been downloaded
+
+[INFO]  [2022-08-11 15:42:58] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #257 has been downloaded
+
+[INFO]  [2022-08-11 15:42:58] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #258 has been downloaded
+
+[INFO]  [2022-08-11 15:42:58] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #259 has been downloaded
+
+[INFO]  [2022-08-11 15:42:58] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #250 has been downloaded
+
+[INFO]  [2022-08-11 15:42:58] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #226 has been downloaded
+
+[INFO]  [2022-08-11 15:42:59] Torrent: ubuntu-20.04.4-desktop-amd64.iso - Piece #261 has been downloaded
